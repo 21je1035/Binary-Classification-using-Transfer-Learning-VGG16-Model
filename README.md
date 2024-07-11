@@ -1,8 +1,8 @@
 # Binary-Classification-using-VGG16
-***Dogs vs Cats Binary Classification***
+***Dogs vs Cats Binary Classification***   
 This project focuses on a binary classification task to differentiate between images of dogs and cats. The dataset used for this project is the popular Dogs vs Cats dataset provided on Kaggle.
 
-***Project Overview***
+***Project Overview***   
 The goal of this project is to build a model that can accurately classify images as either a dog or a cat. To achieve this, we utilize a pre-trained VGG16 model from tensorflow.keras and fine-tune it to suit our specific classification task.
 
 ***Model and Training***
